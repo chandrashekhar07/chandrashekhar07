@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Chandra Shekhar Neupane (@chandrashekhar07)
 
-🚀 Backend Software Engineer | ☁️ Cloud & DevOps | ⚡ Distributed Systems  
+🚀 Senior Backend Engineer | ☁️ Cloud & DevOps | ⚡ Distributed Systems  
 📍 Kathmandu, Nepal  
 
 > Passionate about building reliable backend systems and optimizing cloud infrastructure.
@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💼 Backend Software Engineer at **Velorona LLC (Remote)** (Nov 2025 – Present)
+- 💼 Senior Backend Engineer at **Velorona LLC (Remote)** (Nov 2025 – Present)
 - 🏢 Previously at **Veel Inc, Webpoint Solutions, Sunai Technology, Bytenite Inc**
 - 🧠 Experience across **Fintech, Healthcare, Media & Platform Engineering**
 - ☁️ Strong in **AWS, GCP, Kubernetes, Terraform, CI/CD**

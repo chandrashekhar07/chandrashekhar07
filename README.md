@@ -19,7 +19,7 @@
 ## 🛠 Tech Stack
 
 **Languages**  
-`JavaScript` `TypeScript` `Python` `Go` `C#` `Terraform`
+`JavaScript/TypeScript` `Python` `Go` `C#` `Terraform`
 
 **Frameworks**  
 `NestJS` `Django` `Express.js` `.NET`
@@ -28,13 +28,15 @@
 `PostgreSQL` `MongoDB` `Redis`
 
 **Cloud & DevOps**  
-`AWS` `GCP` `Docker` `Kubernetes` `GitHub Actions` `DroneCI` `ArgoCD`
+`AWS` `GCP` `Cloudflare` `Docker` `Kubernetes` `GitHub Actions` `DroneCI` `ArgoCD`
 
 **Architecture & Protocols**  
-`Microservices` `GraphQL` `gRPC` `WebSockets`
+`Microservices` `GraphQL` `gRPC` `WebSockets` `REST`
 
-**Auth & Payments**  
-`Firebase` `Auth0` `JWT`  
+**Auth Providers**  
+`Firebase` `Auth0` `JWT`
+
+**Payment Providers**
 `Stripe` `CyberSource` `Khalti` `In-App Purchase (iOS)`
 
 **Monitoring**  
@@ -80,14 +82,6 @@ Sagarmatha Engineering College, TU (2016 – 2021)
 ## 📜 Certifications
 - ✅ Terraform – KodeKloud  
 - ✅ AWS ECS – KodeKloud  
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandrashekhar07&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 

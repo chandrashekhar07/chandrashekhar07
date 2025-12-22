@@ -36,7 +36,7 @@
 **Auth Providers**  
 `Firebase` `Auth0` `JWT`
 
-**Payment Providers**
+**Payment Providers**  
 `Stripe` `CyberSource` `Khalti` `In-App Purchase (iOS)`
 
 **Monitoring**  

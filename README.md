@@ -8,8 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💼 Senior Backend Engineer at **Velorona LLC (Remote)** (Nov 2025 – Present)
-- 🏢 Previously at **Veel Inc, Webpoint Solutions, Sunai Technology, Bytenite Inc**
+- 💼 Senior Backend Engineer
 - 🧠 Experience across **Fintech, Healthcare, Media & Platform Engineering**
 - ☁️ Strong in **AWS, GCP, Kubernetes, Terraform, CI/CD**
 - ⚙️ Specialized in **Microservices, gRPC, GraphQL, Payments & Real-time Systems**
